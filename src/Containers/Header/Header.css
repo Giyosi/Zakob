@@ -1,0 +1,11 @@
+.person1 {
+    /* max-width: 470px; */
+    margin-top: -50px;
+    height: 620px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+button {
+    background-color: #8643DC !important;
+}

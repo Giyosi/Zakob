@@ -1,0 +1,14 @@
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.hide-header {
+    height: 0 !important;
+    overflow: hidden !important;
+}
+
+.bars {
+    z-index: 10 !important;
+}

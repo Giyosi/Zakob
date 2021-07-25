@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './Containers/Header';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import AllTitles from './Components/AllTitles';
+import Services from './Containers/Services';
+import Portfolio from './Containers/Portfolio';
+import Clients from './Containers/Clients';
+import Testimonials from './Containers/Testimonials';
+import Blog from './Containers/Blog';
+import Contact from './Containers/Contact';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Services />
+      <Portfolio />
+      <Clients />
+      <Testimonials />
+      <Blog />
+      <Contact />
     </div>
   );
 }

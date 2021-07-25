@@ -1,0 +1,36 @@
+
+.icon {
+    margin: auto;
+    font-size: 30px;
+}
+
+.brand1 {
+    background: #FFF7FA;
+    border: 1px solid #FFE7F0;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.brand2 {
+    background: #EDFFF5;
+    border: 1px solid #CAFFE1;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.brand3 {
+    background: #F5FCFF;
+    border: 1px solid #DDF5FF;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.brand4 {
+    background: #FFFBF2;
+    border: 1px solid #FFEEC9;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.brand5 {
+    background: #F4FFED;
+    border: 1px solid #DBFFC4;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
